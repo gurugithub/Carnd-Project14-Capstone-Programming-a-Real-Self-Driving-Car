@@ -1,0 +1,8 @@
+prefix=/home/student/catkin_ws/CarND-Capstone/ros/devel
+
+Name: tl_ground_truth_logger
+Description: Description of tl_ground_truth_logger
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/catkin_ws/CarND-Capstone/ros/devel/lib 
+Requires: 

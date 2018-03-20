@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/student/catkin_ws/CarND-Capstone/ros/install/setup.sh
